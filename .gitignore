@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FredyGonzalez01/FredyGonzalez01/obj
+/FredyGonzalez01/FredyGonzalez01/bin/Debug/net6.0
+/.vs
+/FredyGonzlez03/.vs/FredyGonzlez03
+/FredyGonzlez02/.vs/FredyGonzlez02
+/FredyGonzalez01/.vs/FredyGonzalez01
+/FredyGonzlez03/FredyGonzlez03/obj
+/FredyGonzlez03/FredyGonzlez03/bin/Debug
+/FredyGonzlez02/FredyGonzlez02/obj
+/FredyGonzlez02/FredyGonzlez02/bin/Debug/net6.0
